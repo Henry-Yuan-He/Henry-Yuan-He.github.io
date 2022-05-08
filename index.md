@@ -4,19 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at National University of Singapore (NUS).
+I am a third-year undergraduate student with double degrees in Business Analytics and Applied Mathematics at National University of Singapore (NUS), supervised by Prof. [Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/) and Prof. [Vincent Y. F. Tan](https://vyftan.github.io/). My Research interests are in the area of Operations Research and Statistical Machine Learning, especially Bayesian Optimization, Multi-armed Bandit and Probabilistic Graphical Models. My interested topics also include Probability, Mathematical Statistics, Stochastic Processes and Deep Learning.
 
-## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Apr. 2022]** Teaching BT3102 in AY 21/22 SEM 2 has done. 
+- **[Apr. 2022]** Undergraduate Research Opportunities Programme (UROP) has successfully done. Paper High Dimensional Bayesian Optimization via Gradient Methods uploaded.
+
+
 
 ## Publications
 
@@ -44,7 +41,18 @@ I am a Ph.D. student at National University of Singapore (NUS).
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
-## Services
+## Teaching
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
+- BT3102 Computational Methods for Business Analytics, AY 21/22 SEM 2, Teaching Assistant
+
+  <br>
+
+  Main topics: Bayesian Networks, Hidden Markov Model, EM Algorithm and Baum-Welch Algorithm, 
+
+  <br>
+
+  More than **125** year-2 and year-3 Business Analytics students watching live or recorded tutorials
+
+  [[Tutorial Notes](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Tutorial Recoding](https://github.com/xinzheli1217/learning-to-self-train)]
+
 - Journal Reviewers: T-PAMI, IJCV.
