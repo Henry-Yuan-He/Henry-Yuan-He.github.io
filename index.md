@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a third-year undergraduate student with double degrees in Business Analytics and Applied Mathematics at National University of Singapore (NUS), supervised by Prof. [Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/) and Prof. [Vincent Y. F. Tan](https://vyftan.github.io/). My Research interests are in the area of Operations Research and Statistical Machine Learning, especially Bayesian Optimization, Multi-armed Bandit and Probabilistic Graphical Models. My interested topics also include Probability, Mathematical Statistics, Stochastic Processes and Deep Learning.
+I am a third-year undergraduate student with double degrees in Business Analytics and Applied Mathematics at National University of Singapore (NUS), supervised by Prof. [Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/) and Prof. [Vincent Y. F. Tan](https://vyftan.github.io/). My Research interests are in the area of Operations Research and Statistical Machine Learning, especially **Bayesian Optimization, Multi-armed Bandit and Probabilistic Graphical Models**. I also have great passion to communicate in the areas of Probability, Mathematical Statistics, Stochastic Processes and Deep Learning.
 
 
 
@@ -43,16 +43,16 @@ I am a third-year undergraduate student with double degrees in Business Analytic
 
 ## Teaching
 
+- EE5137 Stochastic Processes (Graduate Level Course), AY 21/22 SEM 2, Teaching Assistant
+  - Setting midterm exam questions and grading homeworks for a 
+
 - BT3102 Computational Methods for Business Analytics, AY 21/22 SEM 2, Teaching Assistant
 
-  <br>
+  - Conduct weekly 1-hour tutorials for more than **125** year-2 and year 3 Business Analytics (officially-registered and guest) students
+  - Main topics include Bayesian Networks Foundations, D-Separation, Hidden Markov Model, Gaussian Mixture Model, EM Algorithm, Baum-Welch Algorithm, Likelihood Sampling, Gibbs Sampling, Variable Elimination and Structure Learning.
 
-  Main topics: Bayesian Networks, Hidden Markov Model, EM Algorithm and Baum-Welch Algorithm, 
+  - [[Tutorial Notes](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Tutorial Recoding](https://github.com/xinzheli1217/learning-to-self-train)]
 
-  <br>
-
-  More than **125** year-2 and year-3 Business Analytics students watching live or recorded tutorials
-
-  [[Tutorial Notes](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Tutorial Recoding](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- Journal Reviewers: T-PAMI, IJCV.
+- BT1101 Introduction to Business Analytics, AY 21/22 SEM 1, Teaching Assistant
+  - Conduct weekly 2-hour hands-on coaching session for **12** year-1 Business Analytics (officially-registered and guest) students
+  - Main topics include R programming, Basic Mathematical Statistics, Regression Model, Time Series Analysis, Data Mining Techiniques, Linear Optimization and Integer Optimization.
