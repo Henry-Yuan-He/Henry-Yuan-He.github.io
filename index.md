@@ -33,7 +33,7 @@ My Research interests are in the area of Operations Research and Statistical Mac
 - BT3102 Computational Methods for Business Analytics, AY 21/22 SEM 2, Teaching Assistant
   - Conduct weekly 1-hour tutorials for more than **125** year-2 and year-3 Business Analytics students (including guest students)
   - Main topics include Bayesian Networks Foundations, D-Separation, Hidden Markov Model, Gaussian Mixture Model, EM Algorithm, Baum-Welch Algorithm, Likelihood Weight Sampling, Gibbs Sampling, Variable Elimination and Structure Learning.
-  - [[Tutorial Notes](https://drive.google.com/file/d/14HlVE_Dj5k5b2AZfcius6i2_K778Ztt8/view?usp=sharing)] [[Tutorial Recoding](https://www.youtube.com/playlist?list=PLYEmLA_7ilZNEjwvGUoszPzUOWqIDjUZI)]
+  - [[Tutorial Notes](https://drive.google.com/file/d/14HlVE_Dj5k5b2AZfcius6i2_K778Ztt8/view?usp=sharing)] [[Tutorial Recording](https://www.youtube.com/playlist?list=PLYEmLA_7ilZNEjwvGUoszPzUOWqIDjUZI)]
 
 - BT1101 Introduction to Business Analytics, AY 21/22 SEM 1, Teaching Assistant
   - Conduct weekly 2-hour hands-on coaching session for **12** year-1 Business Analytics students (including guest students)
