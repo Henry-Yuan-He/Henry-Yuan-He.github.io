@@ -12,29 +12,30 @@ My Research interests are in the area of Operations Research and Statistical Mac
 
 ## News
 
-- **[Apr. 2022]** Teaching BT3102 in AY 21/22 SEM 2 has done. 
-- **[Apr. 2022]** Undergraduate Research Opportunities Programme (UROP) has successfully done. Paper High Dimensional Bayesian Optimization via Gradient Methods uploaded.
+- **[May. 2022]** Rated 4.8/5.0 for BT3102 Computational Methods for Business Analytics.
+- **[Apr. 2022]** Successful completion of teaching of BT3102 in Spring 2022.
+- **[Apr. 2022]** Successful completion of Undergraduate Research Opportunities Programme (UROP).
+- **[Jan. 2022]** Appointed as Teaching Assistant for BT3102 and EE5137 in Spring 2022
 
 
 
 ## Publications
 
-- **High Dimensional Bayesian Optimization via Gradient Methods**
-  <br>
-  **He Yuan**
+- **High Dimensional Bayesian Optimization via Gradient Methods** (In progress)
 
 
 
 ## Teaching
 
-- EE5137 Stochastic Processes (Graduate Level Course), AY 21/22 SEM 2, Teaching Assistant
-  - Setting midterm exam questions and grading homeworks for **50** graduate and senior undergraduate students. 
+- EE5137 Stochastic Processes (Graduate Level Course), Spring 2022, Teaching Assistant
+  - Set midterm exam questions and graded homework for 50 graduate and senior undergraduate students. 
 
-- BT3102 Computational Methods for Business Analytics, AY 21/22 SEM 2, Teaching Assistant
-  - Conduct weekly 1-hour tutorials for more than **125** year-2 and year-3 Business Analytics students (including guest students)
-  - Main topics include Bayesian Networks Foundations, D-Separation, Hidden Markov Model, Gaussian Mixture Model, EM Algorithm, Baum-Welch Algorithm, Likelihood Weight Sampling, Gibbs Sampling, Variable Elimination and Structure Learning.
+- BT3102 Computational Methods for Business Analytics, Spring 2022, Teaching Assistant
+  - Conducted weekly 1-hour tutorials for more than 125 students
+  - Main topics included Bayesian Networks Foundations, D-Separation, Hidden Markov Model, Gaussian Mixture Model, EM Algorithm, Baum-Welch Algorithm, Likelihood Weight Sampling, Gibbs Sampling, Variable Elimination and Structure Learning.
   - [[Tutorial Notes](https://drive.google.com/file/d/14HlVE_Dj5k5b2AZfcius6i2_K778Ztt8/view?usp=sharing)] [[Tutorial Recording](https://www.youtube.com/playlist?list=PLYEmLA_7ilZNEjwvGUoszPzUOWqIDjUZI)]
+  - Received excellent feedback for teaching (Score: 4.8/5.0)
 
-- BT1101 Introduction to Business Analytics, AY 21/22 SEM 1, Teaching Assistant
-  - Conduct weekly 2-hour hands-on coaching session for **12** year-1 Business Analytics students (including guest students)
-  - Main topics include R programming, Basic Mathematical Statistics, Regression Model, Time Series Analysis, Data Mining Techiniques, Linear Optimization and Integer Optimization.
+- BT1101 Introduction to Business Analytics, Fall 2021, Teaching Assistant
+  - Conducted weekly 2-hour hands-on coaching session for 12 Business Analytics students
+  - Main topics included R programming, Basic Mathematical Statistics, Regression Model, Time Series Analysis, Data Mining Techiniques, Linear Optimization and Integer Optimization.
