@@ -14,7 +14,7 @@ My Research interests are in the area of Operations Research and Statistical Mac
 
 - **[May. 2022]** Rated 4.8/5.0 for BT3102 Computational Methods for Business Analytics.
 - **[Apr. 2022]** Successful completion of teaching of BT3102 in Spring 2022.
-- **[Apr. 2022]** Successful completion of Undergraduate Research Opportunities Programme (UROP).
+- **[Apr. 2022]** Successful completion of [Undergraduate Research Opportunities Programme](https://www.comp.nus.edu.sg/programmes/ug/project/urop/).
 - **[Jan. 2022]** Appointed as Teaching Assistant for BT3102 and EE5137 in Spring 2022
 
 
