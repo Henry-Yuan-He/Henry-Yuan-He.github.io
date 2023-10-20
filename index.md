@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am currently pursuing a Master's degree in Statistics at the University of Oxford, specializing in Statistical Machine Learning. My interests lie in Time Series Analysis and the Multi-armed Bandit.
+I am currently pursuing a Master's degree in Statistics at the University of Oxford. I'm interested in Statistical Machine Learning and Operations Research, with a particular focus on Time Series Analysis and Multi-Armed Bandit.
 
 Previously, I completed a Double Degree Programme in Business Analytics and Applied Mathematics from the National University of Singapore (NUS) in 2023. I was fortunate to be mentored by Prof. [Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/) and Prof. [Vincent Y. F. Tan](https://vyftan.github.io/). 
 
