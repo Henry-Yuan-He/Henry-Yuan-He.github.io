@@ -16,3 +16,6 @@ Previously, I completed a Double Degree Programme in Business Analytics and Appl
 - EE5137 Stochastic Processes, Spring 2022, Teaching Assistant, NUS
 - BT3102 Bayesian Networks [[Tutorial Notes](https://drive.google.com/file/d/14HlVE_Dj5k5b2AZfcius6i2_K778Ztt8/view?usp=sharing)], Spring 2022, Teaching Assistant, NUS 
 - BT1101 Introduction to Business Analytics, Fall 2021, Teaching Assistant, NUS
+
+## Selected Awards
+- Outstanding Undergraduate Researcher Prize. 2023. Awarded by National University of Singapore.
