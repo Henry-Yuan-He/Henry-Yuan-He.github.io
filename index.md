@@ -18,4 +18,4 @@ Previously, I completed a Double Degree Programme in Business Analytics and Appl
 - BT1101 Introduction to Business Analytics, Fall 2021, Teaching Assistant, NUS
 
 ## Selected Awards
-- Outstanding Undergraduate Researcher Prize. 2023. Awarded by National University of Singapore.
+- Outstanding Undergraduate Researcher Prize. 2023. Awarded by NUS.
